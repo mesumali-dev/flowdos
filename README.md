@@ -1,5 +1,6 @@
 # ⚡ Flowdos — Intelligent Workflow Orchestration & Conversational Workspace
 
+[![CI Pipeline](https://github.com/mesumali-dev/flowdos/actions/workflows/ci.yml/badge.svg)](https://github.com/mesumali-dev/flowdos/actions)
 [![Next.js](https://img.shields.io/badge/Next.js-15-black?style=flat-square&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-v3-38bdf8?style=flat-square&logo=tailwind-css)](https://tailwindcss.com/)
