@@ -1,4 +1,4 @@
-# ⚡ Flowdos | Intelligent Workflow Orchestration & Conversational Workspace
+# Flowdos | Intelligent Workflow Orchestration & Conversational Workspace
 
 [![CI Pipeline](https://github.com/mesumali-dev/flowdos/actions/workflows/ci.yml/badge.svg)](https://github.com/mesumali-dev/flowdos/actions)
 [![Next.js](https://img.shields.io/badge/Next.js-15-black?style=flat-square&logo=next.js)](https://nextjs.org/)
@@ -10,7 +10,7 @@
 
 ---
 
-## 🌟 Key Features
+## Key Features
 
 - **Conversational Task Assistant:** Integrated AI chatbot capable of understanding natural language prompts to create, update, and prioritize workflow tasks.
 - **Workflow State Management:** Real-time task boards and pipeline management with dynamic status transitions.
@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Architecture
+## Tech Stack & Architecture
 
 | Layer | Technology |
 |---|---|
@@ -32,7 +32,7 @@
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js 18.x or later
@@ -58,5 +58,5 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to explore
 
 ---
 
-## 👨‍💻 Author
+## ‍ Author
 **Syed Mesum Ali** - [@mesumali-dev](https://github.com/mesumali-dev)
