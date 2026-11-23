@@ -1,4 +1,4 @@
-# ⚡ Flowdos — Intelligent Workflow Orchestration & Conversational Workspace
+# ⚡ Flowdos | Intelligent Workflow Orchestration & Conversational Workspace
 
 [![CI Pipeline](https://github.com/mesumali-dev/flowdos/actions/workflows/ci.yml/badge.svg)](https://github.com/mesumali-dev/flowdos/actions)
 [![Next.js](https://img.shields.io/badge/Next.js-15-black?style=flat-square&logo=next.js)](https://nextjs.org/)
@@ -59,4 +59,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to explore
 ---
 
 ## 👨‍💻 Author
-**Syed Mesum Ali** — [@mesumali-dev](https://github.com/mesumali-dev)
+**Syed Mesum Ali** - [@mesumali-dev](https://github.com/mesumali-dev)
